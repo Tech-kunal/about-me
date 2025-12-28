@@ -11,8 +11,6 @@ Hi, I’m Kunal — a BCA student focused on backend and full-stack development.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/8630695163@kotak811) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
